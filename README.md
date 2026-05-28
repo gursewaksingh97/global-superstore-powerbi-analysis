@@ -224,9 +224,6 @@ The dashboards and documentation website were designed using a modern dark theme
 ---
 
 # 🌐 Documentation Website
-<img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/1818bede-74ab-443f-a4b2-16c07fa7d340" />
-
-
 The project also includes a fully designed documentation website showcasing:
 
 * Problem Statement
@@ -237,6 +234,8 @@ The project also includes a fully designed documentation website showcasing:
 * KPI Cards
 * Key Insights
 * Dashboard Screenshots
+  
+<img width="1833" height="877" alt="Website Preview" src="https://github.com/user-attachments/assets/80788a04-cc07-4208-a987-bce34d3b0652" />
 
 ---
 
