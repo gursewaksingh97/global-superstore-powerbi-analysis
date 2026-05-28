@@ -1,4 +1,6 @@
 # 🌍 Global Superstore Analysis
+<img width="1430" height="799" alt="Dashboard" src="https://github.com/user-attachments/assets/c9088d52-b442-4e4c-be82-03d7830e0929" />
+<img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/103dcaef-bf78-455c-b842-62eaffaccee8" />
 
 An industry-level Power BI analytics project focused on sales analysis, order analysis, customer behavior, profit tracking, and business insights generation using interactive dashboards and a modern project documentation website.
 
@@ -7,20 +9,18 @@ An industry-level Power BI analytics project focused on sales analysis, order an
 # 🚀 Project Highlights
 
 
-✅ Interactive Project Documentation Website
-✅ AI-Assisted Frontend Development Workflow
-<img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/41250901-acfa-47dc-9945-f1d1beb93883" />
-
-✅ Two Fully Designed Power BI Dashboards
-✅ Data Cleaning In Excel 
-✅ Advanced KPI & Business Insight Analysis
-✅ Dynamic DAX Measures & Calculated Metrics
-✅ Business Problem Solving Approach
-✅ Profit & Loss Analysis
-✅ Order Trend & Customer Behavior Analysis
-✅ Modern UI / UX Dashboard Theme
-✅ Project Workflow Documentation
-✅ Professional Dashboard Storytelling & Visualization
+* ✅ Interactive Project Documentation Website
+* ✅ AI-Assisted Frontend Development Workflow
+* ✅ Two Fully Designed Power BI Dashboards
+* ✅ Data Cleaning In Excel 
+* ✅ Advanced KPI & Business Insight Analysis
+* ✅ Dynamic DAX Measures & Calculated Metrics
+* ✅ Business Problem Solving Approach
+* ✅ Profit & Loss Analysis
+* ✅ Order Trend & Customer Behavior Analysis
+* ✅ Modern UI / UX Dashboard Theme
+* ✅ Project Workflow Documentation
+* ✅ Professional Dashboard Storytelling & Visualization
 
 
 ---
@@ -40,7 +40,7 @@ The project focuses on:
 * KPI monitoring
 * Business insights generation
 
-A modern documentation website ( with the Help of Ai ) was also developed to professionally showcase the complete project structure, dashboards, KPIs, workflows, and insights.
+A modern documentation website was also developed to professionally showcase the complete project structure, dashboards, KPIs, workflows, and insights.
 
 ---
 
@@ -224,6 +224,8 @@ The dashboards and documentation website were designed using a modern dark theme
 ---
 
 # 🌐 Documentation Website
+<img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/1818bede-74ab-443f-a4b2-16c07fa7d340" />
+
 
 The project also includes a fully designed documentation website showcasing:
 
