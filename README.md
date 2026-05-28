@@ -122,15 +122,15 @@ Focused on:
 
 # 📈 Advanced Features
 
-*✅ Dynamic DAX Measures
-*✅ Interactive Slicers
-*✅ Smooth Dashboard Navigation
-*✅ KPI Storytelling
-*✅ Profit & Loss Breakdown
-*✅ Trend Analysis
-*✅ Responsive Documentation Website
-*✅ Glassmorphism UI Design
-*✅ Animated Dashboard Presentation
+* ✅ Dynamic DAX Measures
+* ✅ Interactive Slicers
+* ✅ Smooth Dashboard Navigation
+* ✅ KPI Storytelling
+* ✅ Profit & Loss Breakdown
+* ✅ Trend Analysis
+* ✅ Responsive Documentation Website
+* ✅ Glassmorphism UI Design
+* ✅ Animated Dashboard Presentation
 
 ---
 
