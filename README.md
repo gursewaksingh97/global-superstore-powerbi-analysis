@@ -1,6 +1,6 @@
 # 🌍 Global Superstore Analysis
 <img width="1430" height="799" alt="Dashboard" src="https://github.com/user-attachments/assets/c9088d52-b442-4e4c-be82-03d7830e0929" />
-<img width="1920" height="1080" alt="Website Preview" src="https://github.com/user-attachments/assets/103dcaef-bf78-455c-b842-62eaffaccee8" />
+<img width="1833" height="877" alt="Website Preview" src="https://github.com/user-attachments/assets/393d6ff0-e733-48e6-b146-bec386a35327" />
 
 An industry-level Power BI analytics project focused on sales analysis, order analysis, customer behavior, profit tracking, and business insights generation using interactive dashboards and a modern project documentation website.
 
